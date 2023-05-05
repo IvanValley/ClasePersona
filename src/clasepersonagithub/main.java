@@ -27,7 +27,7 @@ public class main {
         
         System.out.println("Commit 4");
         
-        System.out.println("Commit 5");
+        System.out.println("Commit 6");
 
         int numPersonas;
         int numPersonasSinFecha;
