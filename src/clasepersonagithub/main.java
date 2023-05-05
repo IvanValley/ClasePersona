@@ -19,6 +19,9 @@ public class main {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Commit 1");
+        
+        System.out.println("Commit 2");
 
         int numPersonas;
         int numPersonasSinFecha;
